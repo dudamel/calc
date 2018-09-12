@@ -1,8 +1,5 @@
 def soma(a, b):
-	try:
-         result = ( a+b )
-	while true
-         return result
+	return float(a) + return float(b)
 
 def sub(c, d):
 	result = ( c-d ) 
