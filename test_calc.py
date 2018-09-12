@@ -6,6 +6,7 @@ def test_soma():
 	
 	assert soma(2, 2) == 4
 	assert soma(-4, 8) == 4
+	assert soma(-4, '8') == 4
 
 
 def test_sub():
