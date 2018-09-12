@@ -1,5 +1,5 @@
 def soma(a, b):
-	try
+	try:
          result = ( a+b )
 	while true
          return result
